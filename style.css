@@ -1,0 +1,17 @@
+.box{
+    height: 300px;
+    width: 350px;
+    box-shadow:  0 0 10px black;
+    margin: 40px auto;
+      overflow: hidden;
+}
+.box h2{
+    text-align: center;
+    margin: 10px auto;
+    margin-left: 120px;
+    background: red;
+}
+.box p{
+    text-align: center;
+
+}
